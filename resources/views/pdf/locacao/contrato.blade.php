@@ -56,10 +56,10 @@
 <table style="width: 100%">
   <tr>
     <td><img src="{{ asset('img/logo-motomaster.png') }}" alt="Image" height="60" width="180"></td>
-    <td> <p style="width: 100%; font-size:28px; font-weight: bold;" align="center">Locadora Motomaster</p>
-         <p style="font-size:16px;" align="center">Av. Cesário de Melo, nº 4030 Campo Grande - Rio de Janeiro - RJ.<br>
-                                                  Contato: (21)7402-1183<br>
-                                                  Email: erike@rdbled.com.br - CNPJ: 53-825-708/0001-48</p>
+    <td> <p style="width: 100%; font-size:28px; font-weight: bold;" align="center">Locadora Guaratiba</p>
+         <p style="font-size:16px;" align="center">Estrada da Matriz, nº 480 Guaratiba - Rio de Janeiro - RJ.<br>
+                                                  Contato: (21)6444-6695<br>
+                                                  Email: nandoxb2@gmai.com - CNPJ: 54.969.765/0001-63</p>
     </td>
 </tr>
 
@@ -217,7 +217,7 @@
 <div>
     <p class="parag">
         Registro: <b>{{$locacao->Veiculo->id}}</b><br><br>
-        Parte, locadora. Motomaster Campo Grande Ltda CNPJ 53.825.708/0001-48 Endereço: AV. Cesario de Melo 04030 denominado LOCADOR.<br><br>
+        Parte, locadora. Guaratiba Ltda CNPJ 54.969.765/0001-63 Endereço: Estrada da Matriz 480 denominado LOCADOR.<br><br>
 
 
         CLÁUSULA 1 DO OBJETO DO CONTRATO:<br>
