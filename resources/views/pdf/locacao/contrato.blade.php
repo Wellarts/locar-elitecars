@@ -216,7 +216,7 @@
 </div>
 <div>
     <p class="parag">
-        Registro: <b>{{$locacao->Veiculo->id}}</b><br><br>
+        Registro: <b>{{$locacao->id}}</b><br><br>
         Parte, locadora. Guaratiba Ltda CNPJ 54.969.765/0001-63 Endereço: Estrada da Matriz 480 denominado LOCADOR.<br><br>
 
 
