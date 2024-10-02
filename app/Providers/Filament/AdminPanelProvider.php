@@ -35,8 +35,8 @@ class AdminPanelProvider extends PanelProvider
             ->path('admin')
             ->login()
             ->databaseNotifications()
-            ->favicon(asset('img/logo-guaratiba.png'))
-            ->brandLogo(asset('img/logo-guaratiba.png'))
+            ->favicon(asset('img/logo-elitecars.png'))
+            ->brandLogo(asset('img/logo-elitecars.png'))
             ->brandLogoHeight('3rem')
             ->colors([
                 'primary' => Color::Amber,

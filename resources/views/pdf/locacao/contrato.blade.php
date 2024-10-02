@@ -55,7 +55,7 @@
 
 <table style="width: 100%">
   <tr>
-    <td><img src="{{ asset('img/logo-guaratiba.png') }}" alt="Image" height="60" width="180"></td>
+    <td><img src="{{ asset('img/logo-elitecars.png') }}" alt="Image" height="60" width="180"></td>
     <td> <p style="width: 100%; font-size:28px; font-weight: bold;" align="center">Locadora Guaratiba</p>
          <p style="font-size:16px;" align="center">Estrada da Matriz, nº 480 Guaratiba - Rio de Janeiro - RJ.<br>
                                                   Contato: (21)99549-3528<br>
@@ -207,7 +207,7 @@
 
 <table style="width: 100%">
     <tr>
-        <td><img src="{{ asset('img/logo-guaratiba.png') }}" alt="Image" height="60" width="180"></td>
+        <td><img src="{{ asset('img/logo-elitecars.png') }}" alt="Image" height="60" width="180"></td>
       <td> <p style="width: 100%; font-size:20px; font-weight: bold" align="center">Contrato de Locação de Veículos</p>
 
       </td>
